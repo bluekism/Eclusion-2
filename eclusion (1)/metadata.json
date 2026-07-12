@@ -1,0 +1,6 @@
+{
+  "name": "Eclusion",
+  "description": "An inclusive shopping platform showcasing and selling unique products designed by children with special needs, empowering creativity through inclusion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
